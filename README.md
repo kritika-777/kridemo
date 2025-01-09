@@ -1,5 +1,5 @@
 # kridemo
 <br>
-Author - Kritika 
+Author - Kritika (chaudhary)
 <br>
 bonjour
